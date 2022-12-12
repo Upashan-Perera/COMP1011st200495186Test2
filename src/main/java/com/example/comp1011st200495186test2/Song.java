@@ -56,10 +56,12 @@ public class Song {
     }
 
     public String toString() {
+
         return songTitle + " - " + performer + " - (" + year + "/" + month + "/" + day + ")";
     }
 
     public LocalDate getWeek() {
+
         return LocalDate.of(year, month, day);
     }
 }

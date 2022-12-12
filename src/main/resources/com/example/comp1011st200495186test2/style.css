@@ -1,0 +1,27 @@
+.root{
+    -fx-background-color: #89CFF0;
+    -fx-background-size: cover;
+}
+
+.text-field{
+    -fx-background-radius: 20px;
+}
+
+.list-view {
+    -fx-background-radius: 20px;
+}
+
+.combo-box{
+    -fx-background-radius: 20px;
+}
+
+.label{
+    -fx-text-fill: white;
+    -fx-font: bold "Roboto";
+}
+
+#averageLabel{
+    -fx-font: 13pt;
+    -fx-background-radius: 20px;
+    -fx-padding: 10px;
+}

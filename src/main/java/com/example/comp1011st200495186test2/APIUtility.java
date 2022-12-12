@@ -10,18 +10,18 @@ import java.util.List;
 
 public class APIUtility {
 
-    public static Response getSongsFromFile()
+    public static Response[] getSongsFromFile()
     {
         Gson gson = new Gson();
 
-        Response apiResponse = null;
+        Response apiResponse[] = null;
 
         try(
                 FileReader fileReader = new FileReader("ChristmasSongs.json");
                 JsonReader jsonReader = new JsonReader(fileReader);
         )
         {
-            apiResponse = gson.fromJson(jsonReader, Response.class);
+            apiResponse = gson.fromJson(jsonReader, Response[].class);
         }
         catch (Exception e)
         {

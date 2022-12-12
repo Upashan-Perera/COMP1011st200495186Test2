@@ -13,16 +13,16 @@ import java.util.List;
 public class Main extends Application {
     @Override
     public void start(Stage stage) throws IOException {
-        FXMLLoader fxmlLoader = new FXMLLoader(Main.class.getResource("hello-view.fxml"));
-        Scene scene = new Scene(fxmlLoader.load(), 320, 240);
-        stage.setTitle("Hello!");
+        FXMLLoader fxmlLoader = new FXMLLoader(Main.class.getResource("songs-view.fxml"));
+        Scene scene = new Scene(fxmlLoader.load());
+        stage.setTitle("Billboard Christmas!");
         stage.setScene(scene);
         stage.show();
     }
 
     public static void main(String[] args) {
 
-        Response apiResponse = APIUtility.getSongsFromFile();
+        Response apiResponse[] = APIUtility.getSongsFromFile();
         launch();
     }
 }
