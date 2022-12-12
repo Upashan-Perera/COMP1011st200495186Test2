@@ -4,17 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="049d015a-e035-403f-9dbe-c5d27248fcaf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChristmasSongs.json" afterDir="false" />
+    <list default="true" id="049d015a-e035-403f-9dbe-c5d27248fcaf" name="Changes" comment="Question 1a complete">
       <change afterPath="$PROJECT_DIR$/src/main/java/com/example/comp1011st200495186test2/APIUtility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/comp1011st200495186test2/Song.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/comp1011st200495186test2/Response.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/comp1011st200495186test2/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/comp1011st200495186test2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/comp1011st200495186test2/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/comp1011st200495186test2/hello-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/comp1011st200495186test2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/comp1011st200495186test2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/comp1011st200495186test2/Song.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/comp1011st200495186test2/Song.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +41,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/perer/IdeaProjects/F22COMP1011S1W2/COMP1011st200495186Test2/src",
+    "last_opened_file_path": "C:/Users/perer/IdeaProjects/F22COMP1011S1W2/COMP1011-FINAL200495186",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -59,7 +54,28 @@
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\perer\IdeaProjects\F22COMP1011S1W2\COMP1011st200495186Test2" />
+      <recent name="C:\Users\perer\IdeaProjects\F22COMP1011S1W2\COMP1011st200495186Test2\src\main\java\com\example\comp1011st200495186test2" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.comp1011st200495186test2.Main" />
+      <module name="COMP1011st200495186Test2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.comp1011st200495186test2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -69,8 +85,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670861638292</updated>
-      <workItem from="1670861639467" duration="1019000" />
+      <workItem from="1670861639467" duration="5225000" />
     </task>
+    <task id="LOCAL-00001" summary="Question 1a complete">
+      <created>1670862795050</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670862795050</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,5 +110,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Question 1a complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="Question 1a complete" />
   </component>
 </project>

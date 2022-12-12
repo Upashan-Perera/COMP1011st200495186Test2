@@ -2,6 +2,8 @@ package com.example.comp1011st200495186test2;
 
 import com.google.gson.annotations.SerializedName;
 
+import java.time.LocalDate;
+
 public class Song {
 
     @SerializedName("SongTitle")
@@ -55,5 +57,9 @@ public class Song {
 
     public String toString() {
         return songTitle + " - " + performer + " - (" + year + "/" + month + "/" + day + ")";
+    }
+
+    public LocalDate getWeek() {
+        return LocalDate.of(year, month, day);
     }
 }
