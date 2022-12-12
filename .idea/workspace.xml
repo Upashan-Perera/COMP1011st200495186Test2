@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="049d015a-e035-403f-9dbe-c5d27248fcaf" name="Changes" comment="Question 1b complete">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/comp1011st200495186test2/SongsViewController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/comp1011st200495186test2/songs-view.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/comp1011st200495186test2/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/comp1011st200495186test2/APIUtility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/comp1011st200495186test2/APIUtility.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/comp1011st200495186test2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/comp1011st200495186test2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/comp1011st200495186test2/Response.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/comp1011st200495186test2/Response.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/comp1011st200495186test2/Song.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/comp1011st200495186test2/Song.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/comp1011st200495186test2/hello-view.fxml" beforeDir="false" />
+    <list default="true" id="049d015a-e035-403f-9dbe-c5d27248fcaf" name="Changes" comment="Question 2a complete">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/comp1011st200495186test2/SongsViewController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/comp1011st200495186test2/SongsViewController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +85,7 @@
       <option name="presentableId" value="Default" />
       <updated>1670861638292</updated>
       <workItem from="1670861639467" duration="5671000" />
-      <workItem from="1670867448984" duration="2887000" />
+      <workItem from="1670867448984" duration="3200000" />
     </task>
     <task id="LOCAL-00001" summary="Question 1a complete">
       <created>1670862795050</created>
@@ -110,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670867014571</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Question 2a complete">
+      <created>1670870565894</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670870565894</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,7 +128,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Question 1a complete" />
     <MESSAGE value="Question 1b complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="Question 1b complete" />
+    <MESSAGE value="Question 2a complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="Question 2a complete" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

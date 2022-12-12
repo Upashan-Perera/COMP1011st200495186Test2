@@ -1,12 +1,13 @@
 package com.example.comp1011st200495186test2;
 
 import javafx.fxml.FXML;
+import javafx.fxml.Initializable;
 import javafx.scene.control.ComboBox;
 import javafx.scene.control.Label;
 import javafx.scene.control.ListView;
 import javafx.scene.control.TextField;
 
-public class SongsViewController {
+public class SongsViewController  {
 
     @FXML
     private Label averageLabel;
